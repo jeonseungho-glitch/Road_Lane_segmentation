@@ -40,6 +40,7 @@ logs/
 *.h5
 *.hdf5
 *.weights
+dataset/Multi Camera Semantic Segmentation/
 
 # Misc
 *.bak
